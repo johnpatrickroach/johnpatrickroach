@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [CTO @endexapp](https://endex.app)
 
-- 👨‍💻 All of my projects are available at [https://johnpatrickroach.com](https://johnpatrickroach.com)
+- 👨‍💻 All of my projects are available at [better-wealth](https://github.com/better-wealth)
 
 - 📝 I regularly write articles on [https://johnpatrickroach.com](https://johnpatrickroach.com)
 
