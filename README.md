@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @johnpatrickroach (Patrick Roach)</h1>
-<h3 align="center">Data engineer w/ multiple patents & an MS in Stats, hoping to apply my skills towards fintech + 🎵🎹🎧🎙️🥁🎸🎶</h3>
+<h3 align="center">Data engineer w/ multiple patents & an MS in Stats + 🎵🎹🎧🎙️🥁🎸🎶</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnpatrickroach&label=Profile%20views&color=0e75b6&style=flat" alt="johnpatrickroach" /> </p>
 
