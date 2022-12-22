@@ -39,6 +39,31 @@
 <br>
 <br>
 <br>
+<p><a href="https://www.venmo.com/u/johnpatrickroach"><img align="left" src="https://user-images.githubusercontent.com/16747783/209034200-6078f79f-0765-44fd-9168-58f0b158e464.png" /></a></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnpatrickroach&show_icons=true&locale=en&layout=compact" alt="johnpatrickroach" /></p>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnpatrickroach&show_icons=true&locale=en" alt="johnpatrickroach" /></p>
