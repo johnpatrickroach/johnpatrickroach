@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [better-wealth](https://github.com/better-wealth)
 
-- 📝 Connect with on [https://www.linkedin.com/in/johnpatrickroach/](https://www.linkedin.com/in/johnpatrickroach/)
+- 📝 Connect with me on [https://www.linkedin.com/in/johnpatrickroach/](https://www.linkedin.com/in/johnpatrickroach/)
 
 - 📫 How to reach me **johnpatrickroach1@gmail.com**
 
