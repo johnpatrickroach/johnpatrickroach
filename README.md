@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [better-wealth](https://github.com/better-wealth)
 
-- 📝 I regularly write articles on [https://johnpatrickroach.com](https://johnpatrickroach.com)
+- 📝 Connect with on [https://www.linkedin.com/in/johnpatrickroach/](https://www.linkedin.com/in/johnpatrickroach/)
 
-- 📫 How to reach me **contact@johnpatrickroach.com**
+- 📫 How to reach me **johnpatrickroach1@gmail.com**
 
-- 📄 Know about my experiences [https://johnpatrickroach.com/about](https://johnpatrickroach.com/about)
+- 📄 Know about my experiences [Patrick Roach Resume](https://docs.google.com/document/d/1ClJPUF4zsWMb11PjJFXUNFinbwY-pTqzi9LhLTVdw5o/edit?usp=sharing)
 
 - ⚡ Fun fact **I play drums in the band Social Creatures!**
 
