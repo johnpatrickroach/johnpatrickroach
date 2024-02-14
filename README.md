@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Patrick Roach Resume](https://docs.google.com/document/d/1ClJPUF4zsWMb11PjJFXUNFinbwY-pTqzi9LhLTVdw5o/edit?usp=sharing)
 
-- ⚡ Fun fact **I play drums in the band Social Creatures!**
+- ⚡ Fun fact **I play drums in the band [Social Creatures](https://open.spotify.com/artist/0Adb8zoz7BJ9T37gicl8oC?si=jQdi4bxKRhu0UC_Tq4hfWQ)!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
