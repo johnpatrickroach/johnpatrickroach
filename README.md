@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnpatrickroach&label=Profile%20views&color=0e75b6&style=flat" alt="johnpatrickroach" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnpatrickroach" alt="johnpatrickroach" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnpatrickroach" alt="johnpatrickroach" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/johnpatroach" target="blank"><img src="https://img.shields.io/twitter/follow/johnpatroach?logo=twitter&style=for-the-badge" alt="johnpatroach" /></a> </p>
 
