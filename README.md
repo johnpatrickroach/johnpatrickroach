@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/johnpatroach" target="blank"><img src="https://img.shields.io/twitter/follow/johnpatroach?logo=twitter&style=for-the-badge" alt="johnpatroach" /></a> </p>
 
-- 🔭 I’m currently working on [CTO @endexapp](https://endex.app)
+- 🔭 I’m currently working on [better-anonymity]([https://endex.app](https://github.com/johnpatrickroach/better-anonymity)
 
 - 👨‍💻 All of my projects are available at [better-wealth](https://github.com/better-wealth)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **johnpatrickroach1@gmail.com**
 
-- 📄 Know about my experiences [Patrick Roach Resume](https://docs.google.com/document/d/1ClJPUF4zsWMb11PjJFXUNFinbwY-pTqzi9LhLTVdw5o/edit?usp=sharing)
+- 📄 Know about my experiences [Patrick Roach Resume](https://drive.google.com/file/d/1c-uwSVJSB0nMatF4QFs6-TddyW092jrT/view?usp=sharing)
 
 - ⚡ Fun fact **I play drums in the band [Social Creatures](https://open.spotify.com/artist/0Adb8zoz7BJ9T37gicl8oC?si=jQdi4bxKRhu0UC_Tq4hfWQ)!**
 
