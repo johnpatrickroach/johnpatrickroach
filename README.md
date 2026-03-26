@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/johnpatroach" target="blank"><img src="https://img.shields.io/twitter/follow/johnpatroach?logo=twitter&style=for-the-badge" alt="johnpatroach" /></a> </p>
 
-- 🔭 I’m currently working on [better-anonymity]([https://endex.app](https://github.com/johnpatrickroach/better-anonymity)
+- 🔭 I’m currently working on [better-anonymity](https://github.com/johnpatrickroach/better-anonymity)
 
 - 👨‍💻 All of my projects are available at [better-wealth](https://github.com/better-wealth)
 
